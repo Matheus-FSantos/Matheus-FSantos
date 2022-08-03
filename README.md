@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Matheus 👋
 
+- 📖 Atualmente Estudando: UX Design (Por Google)
+- 💻 Cursando: Análise e Desenvolvimento de Sistemas 
+- 📌 Morando em: São Paulo, Brasil
+- 🎈 Idade: 18 Anos
+
 <div><br>
   <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
