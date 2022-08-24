@@ -1,17 +1,20 @@
-## Olá! Eu sou o Matheus 👋
+<section align="center">
+  <h1>Olá! Eu sou o Matheus 👋</h1><br>
+</section>
 
 - 📖 Atualmente Estudando: UX Design (Por Google)
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
 - 🎈 Idade: 18 Anos
+##
 
-<div><br>
+<section><br>
   <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</section>
 
-<div style="display: inline_block"><br>
+<section align="center" style="display: inline_block"><br>
   <!--Java-->
   <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <!--HTML-->
@@ -26,11 +29,11 @@
   <img align="center" alt="Matheus-C" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <!--JS-->
   <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+</section>
 
-##
+<hr>
 
-<div>
+<section align="center">
   <!--Instagram-->
   <a href="https://www.instagram.com/_matheuseus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--LinkedIn-->
@@ -42,4 +45,4 @@
  
   ![Snake animation](https://github.com/Matheus-FSantos/Matheus-FSantos/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</section>
