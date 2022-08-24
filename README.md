@@ -29,6 +29,9 @@
   <img align="center" alt="Matheus-C" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <!--JS-->
   <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <!--Arduino-->
+  <img align="center" alt="Matheus-Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          
 </section>
 
 <hr>
