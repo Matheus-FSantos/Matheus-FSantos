@@ -11,8 +11,8 @@
   <h6 align="center">Meus Repositórios:</h6>
   <nav>
     <ul>
-      <li>Readme</li>
-      <li>Programação Web</li>
+      <li>Readme <a href="https://github.com/Matheus-FSantos/Matheus-FSantos" target="_blank">(Clique Aqui)</a></li>
+      <li>Programação Web <a href="https://github.com/Matheus-FSantos/SENAC-PWA107-1142496616-Matheus" target="_blank">(Clique Aqui)</a></li>
     </ul>
   </nav>
 <section> 
