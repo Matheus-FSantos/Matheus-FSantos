@@ -8,7 +8,7 @@
 - 🎈 Idade: 18 Anos
 ##
 <section>
-  <h6 align="center">Meus Repositórios:</h6>
+  <h5 align="center">Meus Repositórios:</h5>
   <nav>
     <ul>
       <li>Readme <a href="https://github.com/Matheus-FSantos/Matheus-FSantos" target="_blank">(Clique Aqui)</a></li>
@@ -19,7 +19,8 @@
 
 ## 
 
-<section><br>
+<section>
+  <h5 align="center">Status:</h5><br>
   <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&langs_count=7&theme=dark"/>
@@ -48,6 +49,7 @@
 <hr>
 
 <section align="center">
+<h5>Contato:</h5><br>
   <!--Instagram-->
   <a href="https://www.instagram.com/_matheuseus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--LinkedIn-->
