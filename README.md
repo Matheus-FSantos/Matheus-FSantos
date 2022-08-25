@@ -31,21 +31,20 @@
 <section align="center" style="display: inline_block"><br>
   <!--Java-->
   <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <!--C-->
+  <img align="center" alt="Matheus-C" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <!--Arduino-->
+  <img align="center" alt="Matheus-Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <!--HTML-->
   <img align="center" alt="Matheus-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!--CSS-->
   <img align="center" alt="Matheus-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--Python-->
-  <img align="center" alt="Matheus-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!--JS-->
+  <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <!--MySQL-->
   <img align="center" alt="Matheus-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <!--C-->
-  <img align="center" alt="Matheus-C" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <!--JS-->
-  <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <!--Arduino-->
-  <img align="center" alt="Matheus-Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-          
+  <!--PostgreSQL-->
+  <img align="center" alt="Matheus-Postgre" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </section>
 
 <hr>
