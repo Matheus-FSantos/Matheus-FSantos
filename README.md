@@ -1,5 +1,5 @@
 <section align="center">
-  <h1>Olá! Eu sou o Matheus 👋</h1><br>
+  <h1 align="center">Olá! Eu sou o Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
 </section>
 
 - 📖 Atualmente Estudando: UX Design (Por Google)
@@ -21,15 +21,15 @@
 <section> 
 
 ## 
-
-<section>
-  <h5 align="center">Status:</h5><br>
-  <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&langs_count=7&theme=dark"/>
+<section align="center">
+  <h5>Sobre:</h5>
+  <img width="417"  src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=radical" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=radical"/>
 </section>
 
-<section align="center" style="display: inline_block"><br>
+<br/>
+
+<section align="center"><br>
   <!--Java-->
   <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <!--C-->
@@ -63,4 +63,8 @@
  
   ![Snake animation](https://github.com/Matheus-FSantos/Matheus-FSantos/blob/output/github-contribution-grid-snake.svg)
 
+</section>
+
+<section align="center">
+  <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
 </section>
