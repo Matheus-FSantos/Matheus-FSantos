@@ -25,8 +25,8 @@
 <section align="center">
   <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
     <h5>Sobre:</h5>
-    <img width="417"  src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=radical" />
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=radical"/>
+    <img width="334"  src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=radical" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=radical"/>
   </a>
 </section>
 
