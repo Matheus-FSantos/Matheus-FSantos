@@ -23,16 +23,11 @@
 
 ##
 
-<section align="center">
-  <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
-    <h5>Sobre:</h5>
-    <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
-      <img width="334" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=dark"/>
-    </a>
-    <a href="https://www.linkedin.com/in/matheusfsantos9438/" target="_blank">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=dark"/>
-    </a>
-</section>
+<div align="center">
+  <a href="https://github.com/Matheus-FSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <br/>
 
