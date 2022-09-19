@@ -3,7 +3,7 @@
 </section>
 
 - 📖 Atualmente Estudando: UX Design (Por Google)
-- 📚 Linguagem Favorita: Java
+- ✔ Linguagem Favorita: Java
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
 - 🎈 Idade: 18 Anos
