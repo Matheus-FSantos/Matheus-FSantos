@@ -44,6 +44,8 @@
   <img align="center" alt="Matheus-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--JS-->
   <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <!--ReactJS-->
+  <img align="center" alt="Matheus-JS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <!--MySQL-->
   <img align="center" alt="Matheus-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <!--PostgreSQL-->
