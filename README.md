@@ -1,5 +1,6 @@
 <section align="center">
   <h1 align="center">Olá! Eu sou o Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
+  <h5>Sobre:</h5>
 </section>
 
 - 📖 Atualmente Estudando: UX Design (Por Google)
@@ -26,7 +27,7 @@
 ##
 
 <div align="center">
-<h5>Status:</h5>
+  <h5>Status:</h5>
   <a href="https://github.com/Matheus-FSantos">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&langs_count=7&theme=tokyonight"/>
