@@ -29,8 +29,8 @@
 <div align="center">
   <h5>Status:</h5>
   <a href="https://github.com/Matheus-FSantos">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=tokyonight"/>
 </div>
 
 <br/>
