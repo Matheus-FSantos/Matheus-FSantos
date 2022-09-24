@@ -3,7 +3,7 @@
   <h5>Sobre:</h5>
 </div>
 
-- 📖 Atualmente Estudando: UX Design e Cloud Fundations (Por Google)&nbsp;&nbsp;<img align="center" height="15" alt="Matheus-HTML-Code" src="https://logosvg.com.br/logos/google-37.png">
+- 📖 Atualmente Estudando: UX Design e Cloud Foundations (Por Google)&nbsp;&nbsp;<img align="center" height="15" alt="Matheus-HTML-Code" src="https://logosvg.com.br/logos/google-37.png">
 - ✔ Linguagem Favorita: Java
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
