@@ -1,15 +1,15 @@
-<section align="center">
+<div align="center">
   <h1 align="center">Olá! Eu sou o Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
   <h5>Sobre:</h5>
-</section>
+</div>
 
-- 📖 Atualmente Estudando: UX Design (Por Google)
+- 📖 Atualmente Estudando: UX Design e Cloud Fundations (Por Google)&nbsp;&nbsp;<img align="center" height="15" alt="Matheus-HTML-Code" src="https://logosvg.com.br/logos/google-37.png">
 - ✔ Linguagem Favorita: Java
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
 - 🎈 Idade: 18 Anos
 ##
-<section>
+<div>
   <h5 align="center">Navegação:</h5>
   <nav>
     <ul>
@@ -23,7 +23,7 @@
       <li>Curso Desenvolvimento Web Completo - Repositório <a href="https://github.com/Matheus-FSantos/curso-desenvolvimeto-web-completo-udemy/" targer="_blank">(Clique Aqui)</a></li>
     </ul>
   </nav>
-<section> 
+<div> 
 
 ##
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-<section align="center"><br>
+<div align="center"><br>
   <!--Java-->
   <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <!--C-->
@@ -55,12 +55,13 @@
   <img align="center" alt="Matheus-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <!--PostgreSQL-->
   <img align="center" alt="Matheus-Postgre" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-</section>
+  <!--GIF-->
+</div>
 
-<hr>
+##
 
-<section align="center">
-<h5>Contato:</h5><br>
+<div align="center">
+  <h5 align="center">Contato:</h5><br>
   <!--Instagram-->
   <a href="https://www.instagram.com/_matheuseus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--LinkedIn-->
@@ -72,8 +73,8 @@
  
   ![Snake animation](https://github.com/Matheus-FSantos/Matheus-FSantos/blob/output/github-contribution-grid-snake.svg)
 
-</section>
+</div>
 
-<section align="center">
+<div align="center">
   <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
-</section>
+</div>
