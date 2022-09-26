@@ -3,7 +3,7 @@
   <h5>Sobre:</h5>
 </div>
 
-- 📖 Atualmente Estudando: UX Design e Cloud Foundations (Por Google)&nbsp;&nbsp;<img align="center" height="15" alt="Matheus-HTML-Code" src="https://logosvg.com.br/logos/google-37.png">
+- 📖 Atualmente Estudando: UX Design e Cloud Foundations (Por Google)&nbsp;&nbsp;<img align="center" height="20" alt="Matheus-HTML-Code" src="https://media0.giphy.com/media/5SZ3E5u0JRsPe/giphy.gif?cid=ecf05e47g4m244uuxacoly9iu4yxyr9ies7sly032az3eapl&rid=giphy.gif&ct=g">
 - ✔ Linguagem Favorita: Java
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
@@ -30,8 +30,8 @@
 <div align="center">
   <h5>Status:</h5>
   <a href="https://github.com/Matheus-FSantos">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=tokyonight"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=gruvbox"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=gruvbox"/>
 </div>
 
 <br/>
