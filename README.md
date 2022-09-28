@@ -32,8 +32,8 @@
 <div align="center">
   <h5>Status:</h5>
   <a href="https://github.com/Matheus-FSantos">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=gruvbox"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=gruvbox"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=tokyonight"/>
 </div>
 
 <br/>
