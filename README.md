@@ -3,7 +3,7 @@
   <h5>Sobre:</h5>
 </div>
 
-- 📖 Atualmente Estudando: UX Design e Cloud Foundations (Por Google)&nbsp;&nbsp;<img align="center" height="20" alt="Matheus-HTML-Code" src="https://media0.giphy.com/media/5SZ3E5u0JRsPe/giphy.gif?cid=ecf05e47g4m244uuxacoly9iu4yxyr9ies7sly032az3eapl&rid=giphy.gif&ct=g">
+- 📖 Atualmente Estudando: UX Design e <a href='https://github.com/GoogleCloudPlatform' target='_blank'> Cloud Foundations</a> (Por Google)&nbsp;&nbsp;<img align="center" height="20" alt="Matheus-HTML-Code" src="https://media0.giphy.com/media/5SZ3E5u0JRsPe/giphy.gif?cid=ecf05e47g4m244uuxacoly9iu4yxyr9ies7sly032az3eapl&rid=giphy.gif&ct=g">
 - ✔ Linguagem Favorita: Java
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
