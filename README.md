@@ -35,8 +35,8 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=tokyonight"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=tokyonight"/>
   <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=tokyonight"/>
-  </br>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-FSantos&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-FSantos&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
