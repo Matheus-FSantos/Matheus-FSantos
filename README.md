@@ -45,8 +45,8 @@
 <div align="center"><br>
   <!--Java-->
   <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <!--C-->
-  <img align="center" alt="Matheus-C" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <!--PHP-->
+  <img align="center" alt="Matheus-PHP" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <!--Arduino-->
   <img align="center" alt="Matheus-Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <!--HTML-->
@@ -56,7 +56,9 @@
   <!--JS-->
   <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <!--ReactJS-->
-  <img align="center" alt="Matheus-JS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Matheus-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <!--NodeJS-->
+  <img align="center" alt="Matheus-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <!--MySQL-->
   <img align="center" alt="Matheus-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <!--PostgreSQL-->
