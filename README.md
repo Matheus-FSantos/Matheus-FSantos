@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E586E&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+eu+sou+o+Matheus;Tenho+18+anos+de+idade;São+Paulo,+Brasil;Bem+vindo!)
+
 <div align="center">
   <h1 align="center">Olá! Eu sou o Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
   <h5>Sobre:</h5>
@@ -86,3 +90,5 @@
 <div align="center">
   <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
 </div>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E586E&height=120&section=footer"/>
