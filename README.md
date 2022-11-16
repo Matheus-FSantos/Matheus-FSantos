@@ -1,7 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E586E&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+eu+sou+o+Matheus;Tenho+18+anos+de+idade;São+Paulo,+Brasil;Bem+vindo!)
-
 <div align="center">
   <h1 align="center">Olá! Eu sou o Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
   <h5>Sobre:</h5>
@@ -82,10 +79,12 @@
   <a href="https://github.com/Matheus-FSantos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <!--Gmail-->
     <a href = "mailto:matheus.fs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Matheus-FSantos/Matheus-FSantos/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=16&center=true&vCenter=true&width=1000&lines=LinkedIn:+/matheusfsantos9438;GitHub:+/Matheus-FSantos;Email:+matheus.fs.contato@gmail.com;Instagram:+@_matheuseus;Clique+nos+botões+acima!)
+![Snake animation](https://github.com/Matheus-FSantos/Matheus-FSantos/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
