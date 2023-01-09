@@ -85,7 +85,6 @@
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=16&center=true&vCenter=true&width=1000&lines=LinkedIn:+/matheusfsantos9438;GitHub:+/Matheus-FSantos;Email:+matheus.fs.contato@gmail.com;Instagram:+@_matheuseus;Clique+nos+botões+acima!)
-![Snake animation](https://github.com/Matheus-FSantos/Matheus-FSantos/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
