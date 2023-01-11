@@ -45,10 +45,6 @@
 <div align="center"><br>
   <!--Java-->
   <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <!--Angular-->
-  <img align="center" alt="Matheus-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <!--PHP-->
-  <img align="center" alt="Matheus-PHP" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <!--Arduino-->
   <img align="center" alt="Matheus-Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <!--HTML-->
