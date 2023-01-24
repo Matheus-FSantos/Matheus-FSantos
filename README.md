@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E586E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=0,2,2,5,30"/>
 <div align="center">
   <h1 align="center">Olá! Eu sou o Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
   <h5>Sobre:</h5>
@@ -29,16 +29,33 @@
 <div> 
 
 ##
+  
+<details> 
+  <summary><h2>🖱️ Github Status e Atividade</h2></summary>
+  
+  <h3><img width="70" heigth="auto" align="center" alt="Matheus-Foguete" src="https://media.giphy.com/media/RMYD1TaLfC8d65O1i9/giphy.gif"> Streak Stats</h3>
+  <p>
+    <a href="https://github.com/Matheus-FSantos">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus-FSantos streak" src="https://streak-stats.demolab.com/?user=Matheus-FSantos&theme=radical&hide_border=true"/>
+    </a>
+  </p>
 
-<div align="center">
-  <h5>Status:</h5>
-  <a href="https://github.com/Matheus-FSantos">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Matheus-FSantos&theme=tokyonight"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&layout=compact&theme=tokyonight"/>
-  <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=tokyonight"/>
+  <h3><img width="70" heigth="auto" align="center" alt="Matheus-LuckyBlock" src="https://media.giphy.com/media/3ohs4zR0payZuMetmE/giphy.gif"> Status do Perfil</h3>
+  <img alt="Matheus-FSantos Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+  <img alt="Matheus-FSantos Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/>
+  <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-FSantos&theme=radical"/>
+  <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheus-FSantos&theme=radical&utcOffset=8"/>
+  <img height="167" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheus-FSantos&theme=radical"/>
   <br/>
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-FSantos&theme=tokyonight&hide_border=true"/>
-</div>
+
+  <p><b>Obs.:</b> O ranking de linguagens é so uma métrica feita pelo GitHub das linguagens utilizadas em meus códigos públicos, não reflete o meu foco em uma determinada linguagem.</p>
+  
+   <h3><img width="40" heigth="auto" alt="Matheus-Graficos" src="https://media.giphy.com/media/kkCsb4kKRQOzPPDBGL/giphy.gif"> Gráficos de atividade</h3>
+  
+  <img height="272px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=radical"/>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Matheus-FSantos Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Matheus-FSantos&theme=high-contrast&hide_border=true" /></a>
+</details>
 
 <br/>
 
@@ -80,10 +97,8 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=16&center=true&vCenter=true&width=1000&lines=LinkedIn:+/matheusfsantos9438;GitHub:+/Matheus-FSantos;Email:+matheus.fs.contato@gmail.com;Instagram:+@_matheuseus;Clique+nos+botões+acima!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=16&center=true&vCenter=true&width=1000&lines=LinkedIn:+/matheusfsantos9438;GitHub:+/Matheus-FSantos;Email:+matheus.fs.contato@gmail.com;Instagram:+@_matheuseus;Clique+nos+botões+acima!)
 
 <div align="center">
   <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
 </div>
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E586E&height=120&section=footer"/>
