@@ -52,7 +52,7 @@
   
    <h3><img width="40" heigth="auto" alt="Matheus-Graficos" src="https://media.giphy.com/media/kkCsb4kKRQOzPPDBGL/giphy.gif"> Gráficos de atividade</h3>
   
-  <img height="272px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=radical"/>
+  <img height="280px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=radical"/>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Matheus-FSantos Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Matheus-FSantos&theme=high-contrast&hide_border=true" /></a>
 </details>
