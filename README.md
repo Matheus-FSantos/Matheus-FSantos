@@ -41,7 +41,7 @@
   </p>
 
   <h3><img width="70" heigth="auto" align="center" alt="Matheus-LuckyBlock" src="https://media.giphy.com/media/3ohs4zR0payZuMetmE/giphy.gif"> Status do Perfil</h3>
-  <img alt="Matheus-FSantos Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+  <img alt="Matheus-FSantos Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/><br/>
   <img alt="Matheus-FSantos Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&langs_count=8&layout=compact&theme=radical&hide_border=true" height="166"/>
   <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-FSantos&theme=radical"/>
   <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheus-FSantos&theme=radical&utcOffset=8"/>
