@@ -61,23 +61,21 @@
 
 <div align="center"><br>
   <!--Java-->
-  <img align="center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <!--Arduino-->
-  <img align="center" alt="Matheus-Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <!--HTML-->
-  <img align="center" alt="Matheus-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <!--CSS-->
-  <img align="center" alt="Matheus-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--JS-->
-  <img align="center" alt="Matheus-JS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <!--ReactJS-->
-  <img align="center" alt="Matheus-React" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <!--NodeJS-->
-  <img align="center" alt="Matheus-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" alt="Matheus-Java" height="auto" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <!--Spring-->
+  <img align="center" alt="Matheus-Spring" height="auto" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <!--Hibernate-->
+  <img align="center" alt="Matheus-Hibernate" height="auto" width="95" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/12/hibernate-interview-questions-logo.png">
+  <!-- VRaptor -->
+  <img align="center" alt="Matheus-VRaptor" height="auto" width="150" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/VRaptor%27s_logo.png">
   <!--MySQL-->
-  <img align="center" alt="Matheus-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Matheus-MySQL" height="auto" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <!--PostgreSQL-->
-  <img align="center" alt="Matheus-Postgre" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Matheus-Postgre" height="auto" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <!-- Ubuntu -->
+  <img align="center" alt="Matheus-Ubuntu" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />       <!-- Git -->
+  <img align="center" alt="Matheus-Git" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
   <!--GIF-->
 </div>
 
