@@ -4,7 +4,7 @@
   <h5>Sobre:</h5>
 </div>
 
-- 📖 Atualmente Estudando: Orientação a Objetos e Java Web (por ITA) <img align="center" height="20" alt="Matheus-ITA" src="https://logodownload.org/wp-content/uploads/2018/01/ita-logo.png">
+- 📖 Atualmente Estudando: Spring Framework & VRaptor 4
 - ✔ Linguagem Favorita: Java 
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
