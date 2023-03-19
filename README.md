@@ -4,7 +4,7 @@
   <h5>Sobre:</h5>
 </div>
 
-- 📖 Atualmente Estudando: Spring Framework & VRaptor 4
+- 📖 Atualmente Estudando: Spring & VRaptor 4
 - ✔ Linguagem Favorita: Java 
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas 
 - 📌 Morando em: São Paulo, Brasil
