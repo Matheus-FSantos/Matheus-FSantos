@@ -61,7 +61,9 @@
 
 <div align="center"><br>
   <!--Java-->
-  <img align="center" alt="Matheus-Java" height="auto" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Matheus-Java" height="auto" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+  <!--Angular-->
+  <img align="center" alt="Matheus-Angular" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <!--Spring-->
   <img align="center" alt="Matheus-Spring" height="auto" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <!--Hibernate-->
