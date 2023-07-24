@@ -3,14 +3,13 @@
   <h5>Sobre:</h5>
 </div>
 
-- 📖 Atualmente Estudando: Spring & VRaptor 4
-- ✔ Linguagem Favorita: Java 
-- 💻 Cursando: Análise e Desenvolvimento de Sistemas 
-- 📌 Morando em: São Paulo, Brasil
-- 🎈 Idade: 18 Anos
+- ✔ Back-end developer 
+- 💻 Major: Análise e Desenvolvimento de Sistemas 
+- 📌 Living in: São Paulo/SP (Brazil)
+- 🎈 Age: 19 Y.
 ##
 <div>
-  <h5 align="center">Navegação:</h5>
+  <h5 align="center">Nav:</h5>
   <h6 align='center'>Principais Repositórios</h6>
   <nav>
     <ul>
@@ -30,16 +29,16 @@
 ##
   
 <details> 
-  <summary><h2>🖱️ Github Status e Atividade</h2></summary>
+  <summary><h2>🖱️ Github Status and Activity</h2></summary>
   
-  <h3><img width="70" heigth="auto" align="center" alt="Matheus-Foguete" src="https://media.giphy.com/media/RMYD1TaLfC8d65O1i9/giphy.gif"> Streak Stats</h3>
+  <h3><img width="70" heigth="auto" align="center" alt="Matheus-Foguete" src="https://media.giphy.com/media/RMYD1TaLfC8d65O1i9/giphy.gif">Streak Stats</h3>
   <p>
     <a href="https://github.com/Matheus-FSantos">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus-FSantos streak" src="https://streak-stats.demolab.com/?user=Matheus-FSantos&theme=radical&hide_border=true"/>
     </a>
   </p>
 
-  <h3><img width="70" heigth="auto" align="center" alt="Matheus-LuckyBlock" src="https://media.giphy.com/media/3ohs4zR0payZuMetmE/giphy.gif"> Status do Perfil</h3>
+  <h3><img width="70" heigth="auto" align="center" alt="Matheus-LuckyBlock" src="https://media.giphy.com/media/3ohs4zR0payZuMetmE/giphy.gif">Profile stats</h3>
   <img alt="Matheus-FSantos Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/><br/>
   <img alt="Matheus-FSantos Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&langs_count=8&layout=compact&theme=radical&hide_border=true" height="166"/>
   <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-FSantos&theme=radical"/>
@@ -47,13 +46,11 @@
   <img height="167" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheus-FSantos&theme=radical"/>
   <br/>
 
-  <p><b>Obs.:</b> O ranking de linguagens é so uma métrica feita pelo GitHub das linguagens utilizadas em meus códigos públicos, não reflete o meu foco em uma determinada linguagem.</p>
+  <p><b>P.S.:</b>The language ranking is just a metric made by GitHub of the languages ​​used in my public code, it does not reflect my focus on a particular language.</p>
   
-   <h3><img width="40" heigth="auto" alt="Matheus-Graficos" src="https://media.giphy.com/media/kkCsb4kKRQOzPPDBGL/giphy.gif"> Gráficos de atividade</h3>
+   <h3><img width="40" heigth="auto" alt="Matheus-Graficos" src="https://media.giphy.com/media/kkCsb4kKRQOzPPDBGL/giphy.gif">Activity chart</h3>
   
   <img height="280px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=radical"/>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Matheus-FSantos Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Matheus-FSantos&theme=high-contrast&hide_border=true" /></a>
 </details>
 
 <br/>
@@ -83,7 +80,7 @@
 ##
 
 <div align="center">
-  <h5 align="center">Contato:</h5><br>
+  <h5 align="center">Contact:</h5><br>
   <!--Instagram-->
   <a href="https://www.instagram.com/_matheuseus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--LinkedIn-->
