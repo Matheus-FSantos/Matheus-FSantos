@@ -1,13 +1,18 @@
 <div align="center">
-  <h1 align="center">Hello! I'm Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
+  <h1 align="center">Hello! I'm Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=16&center=true&vCenter=true&width=1000&lines=Back-End+Developer;GitHub:+/Matheus-FSantos;Send+me+one+message!+😊)
+
   <h5>About:</h5>
 </div>
 
-- ✔ Back-end developer 
+- ✔ Back-end developer (P.S.: almost a Full-Stack developer LMAO)
 - 💻 Major: Análise e Desenvolvimento de Sistemas 
 - 📌 Living in: São Paulo/SP (Brazil)
 - 🎈 Age: 19 Y.
+
 ##
+
 <div>
   <h5 align="center">Nav:</h5>
   <details>
@@ -83,8 +88,6 @@
 </div>
 
 <br/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=16&center=true&vCenter=true&width=1000&lines=LinkedIn:+/matheusfsantos9438;GitHub:+/Matheus-FSantos;Email:+matheus.fs.contato@gmail.com;Instagram:+@_matheuseus;Clique+nos+botões+acima!)
 
 <div align="center">
   <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
