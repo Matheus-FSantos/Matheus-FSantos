@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hello! I'm Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1><br>
-  <h5>Sobre:</h5>
+  <h5>About:</h5>
 </div>
 
 - ✔ Back-end developer 
@@ -10,13 +10,17 @@
 ##
 <div>
   <h5 align="center">Nav:</h5>
-  Comming soon! 🚧
+  <details>
+    <summary><h2>💻&nbsp;-&nbsp;Recommended Repositories</h2></summary>
+    Comming soon! 🚧
+  </details>
 <div> 
 
 ##
-  
+
+<h5 align="center">Status:</h5>
 <details> 
-  <summary><h2>🖱️ Github Status and Activity</h2></summary>
+  <summary><h2>🖱️&nbsp;-&nbsp;Github Status and Activity</h2></summary>
   
   <h3><img width="70" heigth="auto" align="center" alt="Matheus-Foguete" src="https://media.giphy.com/media/RMYD1TaLfC8d65O1i9/giphy.gif">Streak Stats</h3>
   <p>
