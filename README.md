@@ -10,7 +10,7 @@
 ##
 <div>
   <h5 align="center">Nav:</h5>
-  COmming soon! 🚧
+  Comming soon! 🚧
 <div> 
 
 ##
