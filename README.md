@@ -6,7 +6,7 @@
   <h5>About:</h5>
 </div>
 
-- ✔ Back-end developer (P.S.: almost a Full-Stack developer LMAO)
+- ✔ Full-Stack Developer
 - 💻 Major: Análise e Desenvolvimento de Sistemas 
 - 📌 Living in: São Paulo/SP (Brazil)
 - 🎈 Age: 19 Y.
