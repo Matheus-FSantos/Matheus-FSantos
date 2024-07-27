@@ -58,13 +58,21 @@ Feel free to browse my work, get in touch to discuss opportunities or simply say
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
 </div>
 
+### ℹ️ - Infos
+**🌱 Age:** 20 years old</br>
+**🌐 Fav language:** Java ☕</br>
+**💼 Graduate:** Análise e Desenvolvimento de Sistemas</br>
+**🌍 Living in:** São Paulo, Brazil 🇧🇷</br>
+**📚 Studying:** English 🇺🇸 and Spanish 🇪🇸</br>
+**🕓 Hobby:** I've been a musician since I was 13 years old 🎉 🎸
+
 ### 🗠 - Activity
 
 <div style="display: flex; flex-direction: column;">
-  <img alt="stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
   <div style="display: flex;">
     <img height="160" alt="top-languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&langs_count=8&layout=compact&theme=radical&hide_border=true"/>
     <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-FSantos&theme=radical"/>
     <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheus-FSantos&theme=radical&utcOffset=8"/>
   </div>
+  <img alt="stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
 </div>
