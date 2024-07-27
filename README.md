@@ -59,12 +59,17 @@ Feel free to browse my work, get in touch to discuss opportunities or simply say
 </div>
 
 ### ℹ️ - Infos
+
+<img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" align="right" width="200"/>
+
 **🌱 Age:** 20 years old</br>
 **🌐 Fav language:** Java ☕</br>
 **💼 Graduate:** Análise e Desenvolvimento de Sistemas</br>
 **🌍 Living in:** São Paulo, Brazil 🇧🇷</br>
 **📚 Studying:** English 🇺🇸 and Spanish 🇪🇸</br>
 **🕓 Hobby:** I've been a musician since I was 13 years old 🎉 🎸
+
+<br />
 
 ### 🗠 - Activity
 
