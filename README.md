@@ -1,94 +1,57 @@
-<div align="center">
-  <h1 align="center">Hello! I'm Matheus <img alt="Matheus-Mão" width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> </h1>
+### Hey! Nice to see you.
+Welcome to my portifolio,
+I'm Matheus, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil.\
+Feel free to browse my work, get in touch to discuss opportunities or simply say "hi 👋" to me!\
+
+### 👾 - Tech stack
+
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
+  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" alt="centos" />
+  <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" alt="zorin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=16&center=true&vCenter=true&width=1000&lines=Back-End+Developer;GitHub:+/Matheus-FSantos;Send+me+one+message!+😊)
-
-  <h5>About:</h5>
-</div>
-
-- ✔ Full-Stack Developer
-- 💻 Major: Análise e Desenvolvimento de Sistemas 
-- 📌 Living in: São Paulo/SP (Brazil)
-- 🎈 Age: 19 Y.
-
-##
-
-<div>
-  <h5 align="center">Nav:</h5>
-  <details>
-    <summary><h2>💻&nbsp;-&nbsp;Recommended Repositories</h2></summary>
-    Comming soon! 🚧
-  </details>
-<div> 
-
-##
-
-<h5 align="center">Status:</h5>
-<details> 
-  <summary><h2>🖱️&nbsp;-&nbsp;Github Status and Activity</h2></summary>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kt" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
   
-  <h3><img width="70" heigth="auto" align="center" alt="Matheus-Foguete" src="https://media.giphy.com/media/RMYD1TaLfC8d65O1i9/giphy.gif">Streak Stats</h3>
-  <p>
-    <a href="https://github.com/Matheus-FSantos">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus-FSantos streak" src="https://streak-stats.demolab.com/?user=Matheus-FSantos&theme=radical&hide_border=true"/>
-    </a>
-  </p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgree" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
+  <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize" />
 
-  <h3><img width="70" heigth="auto" align="center" alt="Matheus-LuckyBlock" src="https://media.giphy.com/media/3ohs4zR0payZuMetmE/giphy.gif">Profile stats</h3>
-  <img alt="Matheus-FSantos Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/><br/>
-  <img alt="Matheus-FSantos Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&langs_count=8&layout=compact&theme=radical&hide_border=true" height="166"/>
-  <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-FSantos&theme=radical"/>
-  <img height="166" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheus-FSantos&theme=radical&utcOffset=8"/>
-  <img height="167" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Matheus-FSantos&theme=radical"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="spring-security" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" />
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbit" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" />
+  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jwt" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="stylecomps" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="mat-ui" />
+  <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" alt="editorconfig" />
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
 
-  <p><b>P.S.:</b>The language ranking is just a metric made by GitHub of the languages ​​used in my public code, it does not reflect my focus on a particular language.</p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="firefox" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
   
-   <h3><img width="40" heigth="auto" alt="Matheus-Graficos" src="https://media.giphy.com/media/kkCsb4kKRQOzPPDBGL/giphy.gif">Activity chart</h3>
-  
-  <img height="280px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-FSantos&theme=radical"/>
-</details>
-
-<br/>
-
-<div align="center"><br>
-  <!--Java-->
-  <img align="center" alt="Matheus-Java" height="auto" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
-  <!--Angular-->
-  <img align="center" alt="Matheus-Angular" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <!--Spring-->
-  <img align="center" alt="Matheus-Spring" height="auto" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <!--Hibernate-->
-  <img align="center" alt="Matheus-Hibernate" height="auto" width="95" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/12/hibernate-interview-questions-logo.png">
-  <!-- VRaptor -->
-  <img align="center" alt="Matheus-VRaptor" height="auto" width="150" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/VRaptor%27s_logo.png">
-  <!--MySQL-->
-  <img align="center" alt="Matheus-MySQL" height="auto" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <!--PostgreSQL-->
-  <img align="center" alt="Matheus-Postgre" height="auto" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-  <!-- Ubuntu -->
-  <img align="center" alt="Matheus-Ubuntu" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />       <!-- Git -->
-  <img align="center" alt="Matheus-Git" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-  <!--GIF-->
-</div>
-
-##
-
-<div align="center">
-  <h5 align="center">Contact:</h5><br>
-  <!--Instagram-->
-  <a href="https://www.instagram.com/_matheuseus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/matheusfsantos9438/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--GitHub-->
-  <a href="https://github.com/Matheus-FSantos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <!--Gmail-->
-    <a href = "mailto:matheus.fs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70" heigth="auto" align="center" alt="Matheus-Mario" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
 </div>
