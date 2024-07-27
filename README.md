@@ -1,7 +1,7 @@
 ### Hey! Nice to see you.
 Welcome to my portifolio,
 I'm Matheus, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil.\
-Feel free to browse my work, get in touch to discuss opportunities or simply say "hi 👋" to me!\
+Feel free to browse my work, get in touch to discuss opportunities or simply say "hi 👋" to me!
 
 ### 👾 - Tech stack
 
