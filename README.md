@@ -2,7 +2,7 @@
 
 Welcome to my portifolio,
 
-**<ins>I'm</ins> Matheus**, <ins>Full-Stack Developer</ins> from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in *<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil*.\
+At 20 years old, **<ins>I'm</ins> Matheus**, <ins>Full-Stack Developer</ins> from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in *<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil*.\
 Feel free to browse my work, get in touch to discuss opportunities or simply say "hi 👋" to me!
 
 ### 👾 - Tech stack
@@ -56,4 +56,15 @@ Feel free to browse my work, get in touch to discuss opportunities or simply say
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+</div>
+
+### 🗠 - Activity
+
+<div style="display: flex; flex-direction: column;">
+  <img alt="stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Matheus-FSantos&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+  <div style="display: flex;">
+    <img height="160" alt="top-languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Matheus-FSantos&langs_count=8&layout=compact&theme=radical&hide_border=true"/>
+    <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matheus-FSantos&theme=radical"/>
+    <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matheus-FSantos&theme=radical&utcOffset=8"/>
+  </div>
 </div>
