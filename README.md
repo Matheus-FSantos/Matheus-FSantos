@@ -2,7 +2,7 @@
 
 Welcome to my portifolio,
 
-At 20 years old, **<ins>I'm</ins> Matheus**, <ins>Full-Stack Developer</ins> from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in *<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil*.\
+At 20 years old, **<ins>I'm</ins> Matheus**, <ins>Full-Stack Developer</ins> and <ins>Junior Systems Analyst</ins> from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in *<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil*.\
 Feel free to browse my work, get in touch to discuss opportunities or simply say "hi 👋" to me!
 
 ### 👾 - Tech stack
@@ -64,7 +64,8 @@ Feel free to browse my work, get in touch to discuss opportunities or simply say
 |--------------------------------------- |----------------------------------------------------------------------------------------------------------|
 | **🌱 Age:**                            | 20 years old.                                                                                            |
 | **🌐 Fav language:**                   | Java ☕                                                                                                   |
-| **💼 Graduate:**                       | Análise e Desenvolvimento de Sistemas.                                                                     |
+| **💼 Working in:**                      | Vivo Telefônica 💜                                                                                      |
+| **🎓 Graduate:**                       | Análise e Desenvolvimento de Sistemas.                                                                     |
 | **🌍 Living in:**                      | São Paulo, Brazil 🇧🇷                                                                                      |
 | **📚 Studying:**                       | English 🇺🇸 and Spanish 🇪🇸                                                                                  |
 | **🕓 Hobby:**                          | I've been a musician since I was 13 years old 🎉 🎸                                                        |
