@@ -62,9 +62,9 @@ Feel free to browse my work, get in touch to discuss opportunities or simply say
 
 |                                      |                                                                                                          |
 |--------------------------------------- |----------------------------------------------------------------------------------------------------------|
-| **🌱 Age:**                            | 20 years old.                                                                                            |
+| **🌱 Age:**                            | 22 years old.                                                                                            |
 | **🌐 Fav language:**                   | Java ☕                                                                                                   |
-| **💼 Working in:**                      | Vivo Telefônica 💜                                                                                      |
+| **💼 Working in:**                      | Vivo (Telefônica Brasil) 💜                                                                              |
 | **🎓 Graduate:**                       | Análise e Desenvolvimento de Sistemas.                                                                     |
 | **🌍 Living in:**                      | São Paulo, Brazil 🇧🇷                                                                                      |
 | **📚 Studying:**                       | English 🇺🇸 and Spanish 🇪🇸                                                                                  |
