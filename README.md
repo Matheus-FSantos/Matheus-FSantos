@@ -2,7 +2,7 @@
 
 Welcome to my portifolio,
 
-At 20 years old, **<ins>I'm</ins> Matheus**, <ins>Full-Stack Developer</ins> and <ins>Junior Systems Analyst</ins> from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in *<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil*.\
+At 22 years old, **<ins>I'm</ins> Matheus**, <ins>Full-Stack Developer</ins> and <ins>Junior Systems Analyst</ins> from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - Brazil, current living in *<img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> - São Paulo, Brazil*.\
 Feel free to browse my work, get in touch to discuss opportunities or simply say "hi 👋" to me!
 
 ### 👾 - Tech stack
